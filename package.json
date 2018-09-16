@@ -1,0 +1,15 @@
+{
+  "name": "natourwireframe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": "git@github.com:filippoimarisio/natour-design.git",
+  "author": "filippoimarisio <filippo.imarisio@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.0",
+    "node-sass": "^4.9.3"
+  }
+}
